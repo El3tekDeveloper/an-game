@@ -1,6 +1,0 @@
-subdir('fmt')
-subdir('glad')
-subdir('cgltf')
-subdir('imgui')
-subdir('sol2')
-subdir('stb')
