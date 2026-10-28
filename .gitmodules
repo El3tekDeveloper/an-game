@@ -1,0 +1,3 @@
+[submodule "an-engine"]
+	path = an-engine
+	url = https://github.com/El3tekDeveloper/an-engine.git

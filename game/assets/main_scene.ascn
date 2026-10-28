@@ -1,0 +1,14 @@
+[scene uid="1491614040"]
+
+[entity id="0"]
+- [component type_name="Transform"]
+- [component type_name="Camera"]
+
+[entity id="4294967296"]
+- [component type_name="Transform"]
+- [component type_name="SpriteRenderer"]
+- [component type_name="PlayerController"]
+  - speed = 2.000000
+  - bob_speed = 3.000000
+  - bob_height = 0.050000
+

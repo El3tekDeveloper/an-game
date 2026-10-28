@@ -1,0 +1,5 @@
+subdir('io')
+subdir('memory')
+subdir('input')
+subdir('math')
+subdir('os')

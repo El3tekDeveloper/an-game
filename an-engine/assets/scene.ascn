@@ -1,0 +1,31 @@
+[scene uid="2921322003"]
+
+[entity id="0"]
+- [component type_name="Transform"]
+  - position = [0,0,1]
+  - rotation = [0,0,0,1]
+  - scale = [1,1,1]
+- [component type_name="Camera"]
+  - type = 
+  - fov = 60.000000
+  - orthographic_size = 1.500000
+  - near_plane = 0.100000
+  - far_plane = 100.000000
+
+[entity id="4294967296"]
+- [component type_name="Transform"]
+  - position = [0,-0.42298144,0]
+  - rotation = [0,0,-0.4260946,0.90467864]
+  - scale = [1,1,1]
+- [component type_name="ScriptComponent"]
+- [component type_name="SpriteRenderer"]
+  - sprite = [3562139179]
+  - color = [1,1,1,1]
+  - flip_x = 1
+  - flip_y = 0
+  - layer = 0
+- [component type_name="Player"]
+
+[entity id="8589934592"]
+- [component type_name="GameStateComponent"]
+
